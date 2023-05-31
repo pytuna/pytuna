@@ -1,7 +1,9 @@
-<img align="left" width="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" width="250" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <h1 align="center">Hi 👋, I'm Tăng Hồ Trung Nam</h1>
-<h3 align="center">My major Computer Engineering</h3>
+<h2 align="center">My major is Backend Developer</h2>
+
+<div style="padding-top:200px">
 
 ## Connect with me:
 
@@ -35,6 +37,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pytuna&show_icons=true&locale=en&layout=compact" alt="pytuna" /></p>
+<p><img align="left" width="40%" top="0" src="https://github-readme-stats.vercel.app/api/top-langs?username=pytuna&show_icons=true&locale=en&layout=compact" alt="pytuna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pytuna&show_icons=true&locale=en" alt="pytuna" /></p>
+<p><img align="right" width="53%" top="0"src="https://github-readme-stats.vercel.app/api?username=pytuna&show_icons=true&locale=en" alt="pytuna" /></p>
+</div>
