@@ -41,3 +41,8 @@
 
 <p><img align="right" width="53%" top="0"src="https://github-readme-stats.vercel.app/api?username=pytuna&show_icons=true&locale=en" alt="pytuna" /></p>
 </div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pytuna)](https://git.io/streak-stats)
+</div>
